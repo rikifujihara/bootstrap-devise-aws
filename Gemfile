@@ -56,7 +56,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #custom gems
-gem 'bootstrap', '~> 5.1.3'
+gem 'bootstrap', '~> 4.5.2'
 gem 'sprockets-rails'
 gem 'jquery-rails'
 gem 'devise'
