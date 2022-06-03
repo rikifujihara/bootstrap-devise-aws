@@ -19,6 +19,8 @@
     <p class="alert"><%= alert %></p>
   <%end%>
   <%= render partial: "shared/nav"%>
-  <%= yield %>
+  <div class="container-md border">
+    <%= yield %>
+  </div>
   </body>
 </html>
